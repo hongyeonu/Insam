@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nct_dream.SongGuessingActivity_dream">
+
+    <!-- 노래 맞추기 텍스트 -->
+    <TextView
+        android:id="@+id/text_song_guessing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="노래 맞추기"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#000000" />
+
+    <!-- 음악 재생 버튼 -->
+    <Button
+        android:id="@+id/button_play_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_song_guessing"
+        android:textSize="20sp"
+        android:text="음악 재생"
+        android:typeface="normal"
+        android:textColor="#FFFFFFF0">
+    </Button>
+
+    <!-- 정답 입력 칸 -->
+    <TextView
+        android:id="@+id/text_answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_play_music"
+        android:layout_marginTop="20dp"
+        android:text="정답:"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#000000" />
+
+    <EditText
+        android:id="@+id/editText_answer_input"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_answer"
+        android:hint="@android:string/selectAll"
+        android:minHeight="48dp" />
+
+    <!-- 정답 제출 버튼 -->
+    <Button
+        android:id="@+id/button_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_answer_input"
+        android:text="정답 제출"
+        android:textSize="20sp"
+        android:typeface="normal"
+        android:textColor="#FFFFFFF0">
+    </Button>
+</RelativeLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".svt.BodyActivity_svt">
+
+    <!-- 신체 일부 맞추기 텍스트 -->
+    <TextView
+        android:id="@+id/text_buz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="신체 일부 맞추기"
+        android:textColor="#000000"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <!-- Easy 버튼 -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_easy"
+        android:layout_width="160dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/text_buz"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="#CC964A"
+        android:text="Easy"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <!-- Normal 버튼 -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_normal"
+        android:layout_width="160dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/button_easy"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="#CC964A"
+        android:text="Normal"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <!-- Hard 버튼 -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_hard"
+        android:layout_width="160dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/button_normal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="#CC964A"
+        android:text="Hard"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+</RelativeLayout>

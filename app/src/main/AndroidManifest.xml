@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Insam"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <!-- 세븐틴 -->
+        <activity android:name=".svt.SeventeenActivity" />
+        <!-- 세븐틴 노래 맞추기 -->
+        <activity android:name=".svt.SVT_Song_EasyActivity" />
+        <activity android:name=".svt.SVT_Song_NormalActivity" />
+        <activity android:name=".svt.SVT_Song_HardActivity" />
+        <activity android:name=".svt.SongGuessingActivity_svt" />
+
+        <!-- 세븐틴 신체 부위 맞추기 -->
+        <activity android:name=".svt.BodyActivity_svt" />
+        <activity android:name=".svt.SVT_Body_EasyActivity" />
+        <activity android:name=".svt.SVT_Body_NormalActivity" />
+        <activity android:name=".svt.SVT_Body_HardActivity" />
+        
+        <!-- 세븐틴 유행어 맞추기 -->
+        <activity android:name=".svt.BuzActivity_svt" />
+        <activity android:name=".svt.SVT_Buz_EasyActivity" />
+        <activity android:name=".svt.SVT_Buz_NormalActivity" />
+        <activity android:name=".svt.SVT_Buz_HardActivity" />
+
+        <!-- nct_dream -->
+        <activity android:name=".nct_dream.NctDreamActivity" />
+
+        <!-- nct_dream 노래 맞추기 -->
+        <activity android:name="com.cookandroid.insam.nct_dream.SongGuessingActivity_dream" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Song_EasyActivity" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Song_NormalActivity" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Song_HardActivity" />
+
+        <!-- nct_dream 신체 부위 맞추기 -->
+        <activity android:name="com.cookandroid.insam.nct_dream.BodyActivity_dream" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Body_EasyActivity" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Body_NormalActivity" />
+        <activity android:name="com.cookandroid.insam.nct_dream.Dream_Body_HardActivity" />
+
+        <!-- nct_dream 유행어 맞추기 -->
+        <activity android:name=".nct_dream.Dream_buz_EasyActivity" />
+        <activity android:name=".nct_dream.Dream_buz_NormalActivity" />
+        <activity android:name=".nct_dream.Dream_buz_HardActivity" />
+        <activity android:name=".nct_dream.BuzActivity_dream" />
+
+        <!-- 기본 -->
+        <activity android:name="com.cookandroid.insam.LoginActivity"/>
+        <activity android:name="com.cookandroid.insam.RegisterActivity"/>
+        <activity android:name="com.cookandroid.insam.SelectActivity"/>
+        <activity android:name="com.cookandroid.insam.BadgeActivity"/>
+
+
+
+    </application>
+
+</manifest>

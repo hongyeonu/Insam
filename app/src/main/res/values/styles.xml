@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Insam" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--style name="Theme.Insam" parent="Theme.Material3.DayNight.NoActionBar"/-->
+    </style>
+    <!-- Customize your theme here. -->
+</resources>

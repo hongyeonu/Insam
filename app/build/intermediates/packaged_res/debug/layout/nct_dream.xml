@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nct_dream.NctDreamActivity">
+
+    <TextView
+        android:id="@+id/Dreamtextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="NCT DREAM"
+        android:textColor="#000000"
+        android:textSize="60dp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_song_guessing_game"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/Dreamtextview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:background="#CC964A"
+        android:elevation="2dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10dp"
+        android:text="노래 맞추기"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+    <!-- android:drawableLeft="@drawable/asd" -->
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_body_game"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/button_song_guessing_game"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:background="#CC964A"
+        android:elevation="2dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10dp"
+        android:text="신체 일부 맞추기"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_buz_game"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/button_body_game"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="#CC964A"
+        android:elevation="2dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10dp"
+        android:text="유행어 맞추기"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+</RelativeLayout>

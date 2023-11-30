@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".svt.BodyActivity_svt">
+
+
+    <TextView
+        android:id="@+id/tv_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:textColor="#363A43"
+        android:textSize="22sp"
+        android:text="어떤 멤버일까요?"
+        android:textStyle="bold">
+    </TextView>
+
+    <!-- 정답 입력 칸 -->
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/iv_image"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="142dp"-->
+    <!--        android:layout_below="@+id/text_song_guessing"-->
+    <!--        android:layout_marginTop="34dp"-->
+    <!--        android:src="@drawable/buz_dream_easy"-->
+    <!--        android:typeface="normal" />-->
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="wrap_content"
+        android:layout_height="142dp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/tv_question"
+        android:src="@drawable/body_normal_svt" />
+
+    <TextView
+        android:id="@+id/text_answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_image"
+        android:layout_marginTop="20dp"
+        android:text="정답:"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText_answer_input"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_answer"
+        android:hint="@android:string/selectAll"
+        android:minHeight="48dp" />
+
+    <!-- 정답 제출 버튼 -->
+    <Button
+        android:id="@+id/button_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_answer_input"
+        android:text="정답 제출"
+        android:textSize="20sp"
+        android:typeface="normal"
+        android:textColor="#FFFFFFF0">
+    </Button>
+
+</RelativeLayout>

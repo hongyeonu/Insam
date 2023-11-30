@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_badge.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/badge.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_svt_hard.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/svt_hard.mp3"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_easy_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_easy_dream.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_seven_easy.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_seven_easy.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_dream_easy.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_dream_easy.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_hard_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_hard_dream.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_hard_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_hard_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_easy_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_easy_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_normal_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_normal_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_easy_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_easy_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_dream_normal.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_dream_normal.png"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_song_guessing_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_song_guessing_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_normal_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_normal_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_normal_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_normal_dream.png"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_select.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/select.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_normal_svt.PNG.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_normal_svt.PNG"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_baseline_email_24.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_hard_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_hard_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_badge.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/badge.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_seventeen.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/seventeen.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_easy_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_easy_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_seventeen.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/seventeen.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_normal_svt.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_normal_svt.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_easy_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_easy_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_dream_normal.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/dream_normal.mp3"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_seven_special.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_seven_special.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_hard_svt.PNG.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_hard_svt.PNG"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_dream_special.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_dream_special.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_hard_svt.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_hard_svt.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_select.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/select.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_dream_hard.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/dream_hard.mp3"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_svt_normal.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/svt_normal.mp3"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_hard_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_hard_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_hard_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_hard_dream.png"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_normal_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_normal_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_svt_easy.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/svt_easy.mp3"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_hard_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_hard_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_guessing_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_guessing_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_normal_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_normal_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_nct_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/nct_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_easy_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_easy_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_easy_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_easy_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_hard_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_hard_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_hard_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_hard_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_easy_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_easy_dream.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_nct127.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/nct127.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_ive.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/ive.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_register.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/register.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_seven_hard.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_seven_hard.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_normal_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_normal_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_easy_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_easy_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_hard_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_hard_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_easy_svt.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_easy_svt.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_hard_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_hard_svt.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_normal_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_normal_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_blackpink.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/blackpink.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/raw_dream_easy.mp3.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/raw/dream_easy.mp3"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_dream_hard.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_dream_hard.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_body_normal_dream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/body_normal_dream.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_easy_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_easy_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_login.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/login.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_seventeen.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/seventeen.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_song_guessing_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_song_guessing_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_badge_seven_normal.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/badge_seven_normal.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_insam.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/insam.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_easy_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_easy_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_buz_easy_svt.PNG.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/buz_easy_svt.PNG"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_hard_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_hard_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_riize.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/riize.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_nctdream.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/nctdream.png"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_baseline_lock_24.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_aespa.png.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/aespa.png"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_hard_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_hard_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_baseline_person_24.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_normal_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_normal_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_body_easy_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_body_easy_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_song_guessing_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_song_guessing_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_normal_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_buz_normal_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_nct_dream.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/nct_dream.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_normal_dream.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_normal_dream.xml"
+    },
+    {
+        "merged": "com.cookandroid.insam.app-merged_res-37:/layout_activity_body_svt.xml.flat",
+        "source": "com.cookandroid.insam.app-main-39:/layout/activity_body_svt.xml"
+    },
+    {
+        "merged": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-merged_res-37:/layout_activity_buz_normal_svt.xml.flat",
+        "source": "/Users/o/.gradle/daemon/8.0/com.cookandroid.insam.app-main-39:/layout/activity_buz_normal_svt.xml"
+    }
+]

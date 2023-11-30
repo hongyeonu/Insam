@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fan">
+        <item>SEVENTEEN</item>
+        <item>NCT127</item>
+        <item>NCT DREAM</item>
+        <item>RIIZE</item>
+        <item>IVE</item>
+        <item>BLACKPINK</item>
+        <item>AESPA</item>
+    </string-array>
+</resources>
