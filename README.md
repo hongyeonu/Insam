@@ -1,10 +1,9 @@
-<img width="539" alt="image" src="https://github.com/hongyeonu/insam/assets/84232170/90691f11-63c5-48c7-b44c-1ac3445febb4"><img width="540" alt="image" src="https://github.com/hongyeonu/insam/assets/84232170/6848ce20-9c49-4bba-80c7-c80ebf4839d5">
 # 🍊 Insam
 🍒 Idol music game 
 
 ## 🍉 Index 
 #### 1.프로젝트 소개
-#### 2.구상 
+#### 2.예상화면
 #### 3.시각화 
 #### 4.팀원소개
 
