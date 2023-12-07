@@ -15,14 +15,10 @@
 <img width="349" alt="image" src="https://github.com/hongyeonu/insam/assets/84232170/0b37445a-4421-403c-9f38-768bd3d3db60">
 
 ## 3.시각화 
-<img width="758" alt="스크린샷 2023-12-07 오후 3 16 59" src="https://github.com/hongyeonu/insam/assets/84232170/0ff5c364-1bb1-4e2b-a754-a25b1089bcc6">
-<img width="741" alt="스크린샷 2023-12-07 오후 3 17 12" src="https://github.com/hongyeonu/insam/assets/84232170/b83c6055-96e8-435f-9ee7-83c82780b6f3">
-<img width="684" alt="스크린샷 2023-12-07 오후 3 17 23" src="https://github.com/hongyeonu/insam/assets/84232170/8e694b8d-8a65-43ac-9060-330565ab1526">
-<img width="748" alt="스크린샷 2023-12-07 오후 3 17 36" src="https://github.com/hongyeonu/insam/assets/84232170/22bb5c72-b1cb-40b7-b688-afda0eee484d">
-<img width="746" alt="스크린샷 2023-12-07 오후 3 17 46" src="https://github.com/hongyeonu/insam/assets/84232170/50105907-7edb-4cff-93bc-5c110057a631">
-<img width="901" alt="스크린샷 2023-12-07 오후 3 17 59" src="https://github.com/hongyeonu/insam/assets/84232170/4265da5c-5795-4692-9b5e-7da5b245a9d4">
-<img width="909" alt="스크린샷 2023-12-07 오후 3 18 10" src="https://github.com/hongyeonu/insam/assets/84232170/3662bc52-c372-4d5e-9a4e-0ce6777c1f27">
-<img width="774" alt="스크린샷 2023-12-07 오후 3 18 22" src="https://github.com/hongyeonu/insam/assets/84232170/a593c947-035c-4e2b-a996-d3dd33fb3ff9">
+<img width="758" alt="스크린샷 2023-12-07 오후 3 16 59" src="https://github.com/hongyeonu/insam/assets/84232170/0ff5c364-1bb1-4e2b-a754-a25b1089bcc6"> <img width="741" alt="스크린샷 2023-12-07 오후 3 17 12" src="https://github.com/hongyeonu/insam/assets/84232170/b83c6055-96e8-435f-9ee7-83c82780b6f3">
+<img width="684" alt="스크린샷 2023-12-07 오후 3 17 23" src="https://github.com/hongyeonu/insam/assets/84232170/8e694b8d-8a65-43ac-9060-330565ab1526"> <img width="748" alt="스크린샷 2023-12-07 오후 3 17 36" src="https://github.com/hongyeonu/insam/assets/84232170/22bb5c72-b1cb-40b7-b688-afda0eee484d">
+<img width="746" alt="스크린샷 2023-12-07 오후 3 17 46" src="https://github.com/hongyeonu/insam/assets/84232170/50105907-7edb-4cff-93bc-5c110057a631"> <img width="901" alt="스크린샷 2023-12-07 오후 3 17 59" src="https://github.com/hongyeonu/insam/assets/84232170/4265da5c-5795-4692-9b5e-7da5b245a9d4">
+<img width="909" alt="스크린샷 2023-12-07 오후 3 18 10" src="https://github.com/hongyeonu/insam/assets/84232170/3662bc52-c372-4d5e-9a4e-0ce6777c1f27"> <img width="774" alt="스크린샷 2023-12-07 오후 3 18 22" src="https://github.com/hongyeonu/insam/assets/84232170/a593c947-035c-4e2b-a996-d3dd33fb3ff9">
 
 ## 4.팀원소개
 > 🍓 Android Project
